@@ -1,8 +1,9 @@
-#ifndef lists_h
-#define lists_h
+#ifndef LISTS_H
+#define LISTS_H
+
 
 /**
- * struct list_s - lin singly to the list
+ * struct list_s - links singly to the list
  * @str: string - malloc string
  * @len: length of the string
  * @next: indicates next node
